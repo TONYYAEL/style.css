@@ -13,3 +13,18 @@
 </body>
 </html>
 
+/* CSS Styles */
+h1 {
+    color: blue; /* Change text color to blue */
+    font-family: Arial, sans-serif; /* Change font family */
+}
+
+p {
+    font-size: 18px; /* Change font size */
+    margin-bottom: 20px; /* Add margin below paragraph */
+}
+
+div {
+    background-color: lightgray; /* Change background color */
+    padding: 10px; /* Add padding */
+}
